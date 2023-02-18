@@ -1,2 +1,3 @@
-# project0
-Lololo
+# Welcome to my project0
+Still learning
+IDN
